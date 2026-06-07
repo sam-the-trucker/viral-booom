@@ -1,7 +1,4 @@
 {
-  "name": "viral-booom",
-  "compatibility_date": "2026-06-07",
-  "compatibility_flags": ["nodejs_compat"],
-  "main": "src/server.ts",
-  "pages_build_output_dir": "dist/client"
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "pages_build_output_dir": "./dist/client"
 }
