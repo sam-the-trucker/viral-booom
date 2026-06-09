@@ -1,4 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "pages_build_output_dir": "./dist/client"
+  "name": "viral-booom",
+  "main": "./dist/server/server.js",
+  "compatibility_date": "2026-06-09",
+  "compatibility_flags": ["nodejs_compat"]
 }
